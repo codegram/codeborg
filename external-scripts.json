@@ -1,1 +1,20 @@
-[]
+[
+  "auth",
+  "dnsimple",
+  "dribbble",
+  "eardropping",
+  "eval",
+  "events",
+  "excuse",
+  "help",
+  "httpd",
+  "maps",
+  "newrelic",
+  "ping",
+  "roles",
+  "rules",
+  "status",
+  "storage",
+  "translate",
+  "youtube-info"
+]
