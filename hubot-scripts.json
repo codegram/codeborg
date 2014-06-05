@@ -1,1 +1,22 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+  "auth.coffee",
+  "dnsimple.coffee",
+  "dribbble.coffee",
+  "eardropping.coffee",
+  "eval.coffee",
+  "events.coffee",
+  "excuse.coffee",
+  "help.coffee",
+  "httpd.coffee",
+  "maps.coffee",
+  "newrelic.coffee",
+  "ping.coffee",
+  "redis-brain.coffee",
+  "roles.coffee",
+  "rules.coffee",
+  "shipit.coffee"
+  "status.coffee",
+  "storage.coffee",
+  "translate.coffee",
+  "youtube-info.coffee"
+]
