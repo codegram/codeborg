@@ -14,7 +14,7 @@
   "redis-brain.coffee",
   "roles.coffee",
   "rules.coffee",
-  "shipit.coffee"
+  "shipit.coffee",
   "status.coffee",
   "storage.coffee",
   "translate.coffee",
