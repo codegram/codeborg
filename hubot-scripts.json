@@ -5,6 +5,7 @@
   "eardropping.coffee",
   "eval.coffee",
   "excuse.coffee",
+  "help.coffee",
   "heroku-status.coffee",
   "keep-alive.coffee",
   "newrelic.coffee",

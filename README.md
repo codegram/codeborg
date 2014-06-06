@@ -15,6 +15,7 @@ These are the `hubot-scripts` Codeborg uses:
 * `eardropping`
 * `eval`
 * `excuse`
+* `help`
 * `heroku-status`
 * `keep-alive`
 * `newrelic`
