@@ -7,7 +7,7 @@ building a prodtivity-killer hubot instance, but that's another story.
 
 ## Scripts
 
-These are the scripts Codeborg uses:
+These are the `hubot-scripts` Codeborg uses:
 
 * `auth`
 * `dnsimple`
@@ -15,6 +15,8 @@ These are the scripts Codeborg uses:
 * `eardropping`
 * `eval`
 * `excuse`
+* `heroku-status`
+* `keep-alive`
 * `newrelic`
 * `ping`
 * `redis-brain`
