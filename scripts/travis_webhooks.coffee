@@ -11,7 +11,7 @@ module.exports = (robot) ->
   robot.router.post '/travis/empresaula', (req, res) ->
     room = '#empresaula'
     data = JSON.parse req.body.payload
-    status = data.status
+    status = data.status_message
     branch = data.branch
     commitMessage = data.message
     authorName = data.author_name
