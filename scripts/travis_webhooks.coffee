@@ -9,7 +9,7 @@
 
 module.exports = (robot) ->
   robot.router.post '/travis/:room', (req, res) ->
-    room = req.params.room
+    room = "##{req.params.room}"
     data = JSON.parse req.body.payload
     status = data.status_message
     branch = data.branch
