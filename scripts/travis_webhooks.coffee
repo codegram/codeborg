@@ -18,7 +18,8 @@ module.exports = (robot) ->
     buildURL = data.build_url
     number = data.number
     repoName = data.repository.name
+    sha = data.commit
 
-    robot.messageRoom room, "TravisCI: Build #{number} #{status} for commit '#{commitMessage}' by #{authorName} (#{repoName}/#{branch}) #{buildURL}"
+    robot.messageRoom room, "TravisCI: Build #{number} #{status} for commit #{sha} '#{commitMessage}' by #{authorName} (#{repoName}/#{branch}) #{buildURL}"
 
     res.send 'OK'
